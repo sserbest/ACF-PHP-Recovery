@@ -9,6 +9,10 @@ Use this plugin to import fieldsets from PHP exports. <strong>Do not use this fo
 5. The fieldset are imported into the database with '(Recovered)' postfixed to the title.
 6. Remove (or just comment out) the PHP defined fields as their UID may conflict with the imported fields. Commonly if you leave them in, you will only see the last field on the fieldset edit screen.
 
+## Note: ##
+Original (link below) had an loading issue and @steingeo fixed and requested merge request but no body merged, that is why I created this fork.
+https://github.com/BeAPI/ACF-PHP-Recovery
+
 ## Alternatives ##
 
 https://github.com/iamntz/acf-recovery
