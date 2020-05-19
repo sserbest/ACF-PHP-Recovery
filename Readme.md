@@ -11,7 +11,7 @@ Use this plugin to import fieldsets from PHP exports. <strong>Do not use this fo
 
 ## Note: ##
 Original (link below) had an loading issue and @steingeo fixed and requested merge request but no body merged, that is why I created this fork.
-https://github.com/BeAPI/ACF-PHP-Recovery
+https://github.com/steingeo/ACF-PHP-Recovery
 
 ## Alternatives ##
 
